@@ -1,0 +1,8 @@
+schedule systems using cron jobs
+credential systems
+ai powered
+
+workflow
+1. how to create workflow.
+2. how to validate workflow.
+3. how to execute workflow.
